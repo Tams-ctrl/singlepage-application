@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.banner{
+    height: 350px;
+    background-image: url('https://t4.ftcdn.net/jpg/05/08/80/19/360_F_508801991_UTsCAOorx25USitqonfRADueJlzyjhDq.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color: azure;
+}
